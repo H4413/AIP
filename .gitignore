@@ -1,3 +1,7 @@
 *.pdf
+*.aux
+*.log
 *.toc
 *.out
+
+rs1.tex
